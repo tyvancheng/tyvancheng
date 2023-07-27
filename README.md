@@ -1,16 +1,18 @@
 ### Hi there 👋
 
+I'm Tyvan, thanks for visiting my Github!
+
+Software engineering revealed a world filled with limitless opportunities. My curiousity and knack for problem solving naturally drew me to this field. Reach out! I'd love to be a part of your innovative solution. The world is your oyster, let's dive in together.
+
+- 🔭 I’m currently working on [LockedIn](https://github.com/tyvancheng/LinkedIn-Clone)! A LinkedIn clone built with Rails and React.
+- 👯 I’m looking to collaborate on your next big idea!
+- 💬 Ask me about Nursing, EMS, or firefighting! The pursuit of knowledge is an endless voyage.
+- 📫 How to reach me: Email me at tyvancheng@gmail.com or send me a message on my [LinkedIn](https://www.linkedin.com/in/tyvan-cheng-7431748b/)!
+- ⚡ Fun fact: I enjoy running and playing golf, where the greatest adversary to overcome is the mind. Overcome that hurdle and the possibilities are endless!
+  
 <!--
-**tyvancheng/tyvancheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
