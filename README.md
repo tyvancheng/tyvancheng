@@ -2,7 +2,7 @@
 
 I'm Tyvan, thanks for visiting my Github!
 
-Software engineering revealed a world filled with limitless opportunities. My curiousity and knack for problem solving naturally drew me to this field. Reach out! I'd love to be a part of your innovative solution. The world is your oyster, let's dive in together.
+Software engineering revealed a world filled with limitless opportunities. My curiousity and knack for problem solving naturally drew me to this field. Reach out! I'd love to be a part of your innovative solution.
 
 - 🔭 I’m currently working on [LockedIn](https://github.com/tyvancheng/LinkedIn-Clone)! A LinkedIn clone built with Rails and React.
 - 👯 I’m looking to collaborate on your next big idea!
